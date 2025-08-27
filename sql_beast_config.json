@@ -1,0 +1,11 @@
+{
+  "mode": "normal",
+  "level": "godlevel",
+  "api_keys": {
+    "grok": null,
+    "openai": null
+  },
+  "lab_targets": ["127.0.0.1", "localhost"],
+  "repeat": 0,
+  "crawl_limit": 0
+}
