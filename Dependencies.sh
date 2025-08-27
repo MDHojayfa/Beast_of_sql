@@ -1,0 +1,1 @@
+pip install requests beautifulsoup4 lxml rich alive-progress openai pyfiglet yaspin scikit-learn numpy schedule
